@@ -56,7 +56,8 @@ class Song
     song
   end
   
-  
+  def self.destory
+    
   
 
 end
