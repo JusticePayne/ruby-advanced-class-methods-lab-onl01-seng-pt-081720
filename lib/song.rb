@@ -15,7 +15,7 @@ class Song
     song
   end
   
-  def self
+  def self.new_name_by
     
 
 end
