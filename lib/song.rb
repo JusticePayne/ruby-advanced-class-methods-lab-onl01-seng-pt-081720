@@ -57,6 +57,7 @@ class Song
   end
   
   def self.destory
+    @@song.clear
     
   
 
