@@ -48,7 +48,7 @@ class Song
     song
   end
   
-  def 
+  def new_from_filename
   
 
 end
